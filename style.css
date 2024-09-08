@@ -1,0 +1,125 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: antiquewhite;
+    font-family: "Roboto", sans-serif;
+}
+.container{
+    max-width:1000px;
+    background-color: rgb(192, 247, 195);
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 100px;
+}
+header{
+
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+
+}
+.header-bio {
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:rgb(218, 32, 88);
+}
+.header-contact {
+    float:right;
+    padding: 30px;
+    
+}
+.header-contact a{
+    text-decoration: none;
+    color:rgb(218, 32, 88);
+    font-weight: bolder;
+}
+.header-contact a:hover{
+
+    color:green ;
+
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal-info-section{
+    
+
+}
+.content{
+    
+
+}
+.left-div{
+    width: 30%;
+    float: left;
+
+}
+.right-div{
+    width: 70%;
+    float: right;
+    
+
+}
+.right-div1{
+    width: 28%;
+    float: left;
+    
+    
+   
+
+}
+.right-div2{
+    width: 45%;
+    float: left;
+   
+    
+   
+
+}
+
+.common-hr{
+    border: solid black 1px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+}
+#reference-section p a{
+    text-decoration: none;
+    color: black
+    font-weight: bolder;
+}
+#reference-section a:hover{
+
+    color:green ;
+
+}
+.botom-container{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.botom-container a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+    
+}
+.botom-container a:hover{
+    color:green ;
+}
